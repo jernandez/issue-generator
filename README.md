@@ -4,8 +4,11 @@ This issue-generator is used to create Tasks and Sub-Tasks within Jira. The scri
 
 ##Options
 -u: the Jira username of the person generating the tickets
+
 -p: the Jira password for the user
+
 -d: the destination project for the generated tickets
+
 -v: the Fix/Version for each ticket
 
 
